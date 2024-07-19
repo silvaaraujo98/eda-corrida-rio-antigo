@@ -3,7 +3,7 @@
 ![Maintenance](https://img.shields.io/maintenance/yes/2024) ![100% do Projeto](https://img.shields.io/badge/Projeto-100%25-blue)
 
 ## Sobre o Projeto
-<img src="images/corrida-rio-antigo.png" alt="Corrida Rio Antigo" width="600" height="400">
+<img src="images/corrida_rio_antigo.png" alt="Corrida Rio Antigo" width="600" height="400">
 
 <img src="images/Eu.jpeg" alt="Corrida Rio Antigo" width="600" height="400">
 
