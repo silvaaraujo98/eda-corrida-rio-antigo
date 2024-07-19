@@ -63,10 +63,6 @@ O projeto está organizado da seguinte forma:
 
 Sinta-se à vontade para contribuir com este projeto. Para isso, faça um fork do repositório, crie uma nova branch para a sua funcionalidade ou correção, e envie um pull request.
 
-## Licença
-
-Este projeto está licenciado sob a licença MIT.
-
 ## Agradecimentos
 
 Agradeço à De Castilho Sports pela organização da Corrida Rio Antigo e por fornecer os dados para esta análise.
