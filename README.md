@@ -3,8 +3,12 @@
 ![Maintenance](https://img.shields.io/maintenance/yes/2024) ![100% do Projeto](https://img.shields.io/badge/Projeto-100%25-blue)
 
 ## Sobre o Projeto
-![Corrida Rio Antigo](images/corrida_rio_antigo.png)
-![Eu Com Medalha](images/Eu.jpeg)
+<img src="images/corrida-rio-antigo.png" alt="Corrida Rio Antigo" width="600" height="400">
+
+<img src="images/Eu.jpeg" alt="Corrida Rio Antigo" width="600" height="400">
+
+
+
 Este projeto realiza uma Análise Exploratória de Dados (EDA) sobre a Corrida Rio Antigo, organizada pela De Castilho Sports e realizada no dia 09/06/2024. Esta análise visa explorar e entender os dados dos participantes dessa corrida, com foco em diversas características, incluindo posições, tempos, categorias, e muito mais.
 
 ## Sobre o DataSet
