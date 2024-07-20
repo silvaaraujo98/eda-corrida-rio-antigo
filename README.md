@@ -9,7 +9,7 @@
 
 
 
-Este projeto realiza uma Análise Exploratória de Dados (EDA) sobre a Corrida Rio Antigo, organizada pela De Castilho Sports e realizada no dia 09/06/2024. Esta análise visa explorar e entender os dados dos participantes dessa corrida, com foco em diversas características, incluindo posições, tempos, categorias, e muito mais.
+Este projeto realiza uma Análise Exploratória de Dados (EDA) sobre a Corrida Rio Antigo de 10 Km em que eu concluí, organizada pela De Castilho Sports e realizada no dia 09/06/2024. Esta análise visa explorar e entender os dados dos participantes dessa corrida, com foco em diversas características, incluindo posições, tempos, categorias, e muito mais.
 
 ## Sobre o DataSet
 
