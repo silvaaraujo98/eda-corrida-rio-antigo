@@ -59,6 +59,11 @@ O projeto está organizado da seguinte forma:
 3. Abra o arquivo Jupyter Notebook `EDA_Corrida_Rio_Antigo.ipynb`.
 4. Execute as células do notebook para reproduzir a análise.
 
+## Análise Exploratória de Dados
+A análise exploratória de dados completa pode ser encontrada [neste link](URL_DO_SEU_ARQUIVO).
+
+
+
 ## Contribuições
 
 Sinta-se à vontade para contribuir com este projeto. Para isso, faça um fork do repositório, crie uma nova branch para a sua funcionalidade ou correção, e envie um pull request.
