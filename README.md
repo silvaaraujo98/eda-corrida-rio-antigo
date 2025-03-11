@@ -60,7 +60,7 @@ O projeto está organizado da seguinte forma:
 4. Execute as células do notebook para reproduzir a análise.
 
 ## Análise Exploratória de Dados
-A análise exploratória de dados completa pode ser encontrada [neste link](URL_DO_SEU_ARQUIVO).
+A análise exploratória de dados completa pode ser encontrada [neste link](https://github.com/silvaaraujo98/eda-corrida-rio-antigo/blob/main/EDA_Corrida_Rio_Antigo.ipynb).
 
 
 
